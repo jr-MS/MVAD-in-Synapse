@@ -1,5 +1,5 @@
 # MVAD-in-Synapse
 
-This repo contains the material that we used in SPARK Conference (2022) and MVP Submit session(2022). These sessions mentioned how you use Multivariate Anomaly Detector in Synapse.
-Feel free to download the notebook sample and the dataset sample to try out this cool feature!
+This repo contains a sample notebook and a sample data of Multivaraite Anomaly Detector in SynapseML. You could try out this feature in Azure Synapse Analytics or Azure Databricks, which support Spark environment. 
 
+Contact me for more questions: jingruhan@microsoft.com
