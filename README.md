@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains a sample notebook and a sample data of Multivaraite Anomaly Detector in SynapseML. You could try out this feature in Azure Synapse Analytics or Azure Databricks, which support Spark environment. You can know more detail and guidance in this blog: (Announcing Multivariate Anomaly Detector in SynapseML)[https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/announcing-multivariate-anomaly-detector-in-synapseml/ba-p/3122486]
+This repo contains a sample notebook and a sample data of Multivaraite Anomaly Detector in SynapseML. You could try out this feature in Azure Synapse Analytics or Azure Databricks, which support Spark environment. You can know more detail and guidance in this blog: [Announcing Multivariate Anomaly Detector in SynapseML](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/announcing-multivariate-anomaly-detector-in-synapseml/ba-p/3122486)
 
 # Getting started is simple
 1. (Create an Anomaly Detector)[https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAnomalyDetector] to get access to the capability of Multivariate Anomaly Detector.
